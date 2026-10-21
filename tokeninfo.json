@@ -1,0 +1,37 @@
+{
+  "name": "Waymark",
+  "symbol": "WYMK",
+  "type": "BEP20",
+  "network": "BNB Smart Chain",
+  "chainId": 56,
+  "address": "0xdA8eac0F4104051a0865899918B266D879a37347",
+  "maxSupply": "10000000000",
+  "description": "Waymark is an independent crypto wallet map. Compare 22 self-custody wallets across 21 chains: supported networks, in-app cross-chain swaps, fees and security history. $WYMK is the BNB Chain community token that rewards users for reporting outdated wallet data.",
+  "website": "WEBSITE_URL",
+  "explorer": "https://bscscan.com/token/0xdA8eac0F4104051a0865899918B266D879a37347",
+  "logo": "logo/wymk-256.png",
+  "pools": [
+    {
+      "dex": "PancakeSwap V3",
+      "pair": "WYMK/USDT",
+      "address": "0x5c14c118f488092ea575ec0cb5faa70a16dcd71f"
+    }
+  ],
+  "links": {
+    "telegram": "https://t.me/waymarkhelp",
+    "telegram_chat": "https://t.me/waymarkchat",
+    "twitter": "https://x.com/Waymarkhelp",
+    "github": "GITHUB_REPO_URL",
+    "geckoterminal": "https://www.geckoterminal.com/bsc/pools/0x5c14c118f488092ea575ec0cb5faa70a16dcd71f",
+    "dexscreener": "https://dexscreener.com/bsc/0x5c14c118f488092ea575ec0cb5faa70a16dcd71f"
+  },
+  "allocations": [
+    {"name": "Community rewards", "percent": 30, "wallet": "0xde6939E4DAD453828964e4CE409533E69D793C1e"},
+    {"name": "Points airdrop", "percent": 15, "wallet": "0x1c5C98089e5c3eb2488C47D9c72452937fFE7336"},
+    {"name": "Treasury and ecosystem", "percent": 15, "wallet": "0x62619E42D7baEde7B4bB3eF4501aF3E202f208bB"},
+    {"name": "Starting liquidity", "percent": 10, "wallet": "0xe3947791d92F2ab8F3a9Cb7D9C158C201c7519dA"},
+    {"name": "Market maker", "percent": 10, "wallet": "0xe3947791d92F2ab8F3a9Cb7D9C158C201c7519dA"},
+    {"name": "Marketing and listings", "percent": 10, "wallet": "0xf85E86C968877CCc7A81793279E00584831c4db9"},
+    {"name": "Team", "percent": 10, "wallet": "0xa4229cB4f0e424bf3973dE6b5fD3f1d3cB25F397"}
+  ]
+}
