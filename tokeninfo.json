@@ -9,7 +9,7 @@
   "description": "Waymark is an independent crypto wallet map. Compare 22 self-custody wallets across 21 chains: supported networks, in-app cross-chain swaps, fees and security history. $WYMK is the BNB Chain community token that rewards users for reporting outdated wallet data.",
   "website": "WEBSITE_URL",
   "explorer": "https://bscscan.com/token/0xdA8eac0F4104051a0865899918B266D879a37347",
-  "logo": "logo/wymk-256.png",
+  "logo": "https://raw.githubusercontent.com/waymarkhelp/waymark.help/main/wymk-256.png",
   "pools": [
     {
       "dex": "PancakeSwap V3",
@@ -21,7 +21,7 @@
     "telegram": "https://t.me/waymarkhelp",
     "telegram_chat": "https://t.me/waymarkchat",
     "twitter": "https://x.com/Waymarkhelp",
-    "github": "GITHUB_REPO_URL",
+    "github": "https://github.com/waymarkhelp/waymark.help",
     "geckoterminal": "https://www.geckoterminal.com/bsc/pools/0x5c14c118f488092ea575ec0cb5faa70a16dcd71f",
     "dexscreener": "https://dexscreener.com/bsc/0x5c14c118f488092ea575ec0cb5faa70a16dcd71f"
   },

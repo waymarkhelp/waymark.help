@@ -1,6 +1,5 @@
-[README.md](https://github.com/user-attachments/files/33774828/README.md)
 <p align="center">
-  <img src="logo/wymk-256.png" width="128" alt="Waymark (WYMK) logo">
+  <img src="wymk-256.png" width="128" alt="Waymark (WYMK) logo">
 </p>
 
 <h1 align="center">Waymark ($WYMK)</h1>
@@ -77,7 +76,7 @@ Total supply: 10,000,000,000 WYMK. All allocations are held in public wallets th
 
 ## Brand assets
 
-All logos are in the [`logo`](logo) folder.
+All logo files are in the root of this repository.
 
 | File | Use |
 |---|---|
